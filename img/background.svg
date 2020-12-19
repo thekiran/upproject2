@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1720px" height="988px" viewBox="0 0 1720 988" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F6F6FA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Create_account_desctop" transform="translate(0.000000, -82.000000)">
+            <g id="Group-4" transform="translate(0.000000, 82.000000)">
+                <rect id="Rectangle" fill="#F6F6FA" fill-rule="nonzero" x="0" y="0" width="1720" height="988"></rect>
+                <path d="M81.1704431,845.171387 C70.1743012,777.66529 135.211807,459.435972 337.728252,455.783995 C435.079711,454.028457 543.946287,539.067018 637.811246,533.98722 C739.209901,528.499713 1033.02245,418.983417 1161.66441,315.052775 C1312.219,193.418782 1484.6642,407.494005 1679,957.278444 L205.762835,974 C130.032002,933.118323 88.5012044,890.175452 81.1704431,845.171387 Z" id="Path-18" fill="url(#linearGradient-1)" opacity="0.799167585"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+.dd-container{
+    position: absolute !important;
+    top: 1px;
+    left: 1px;
+}
+.dd-option-image, .dd-selected-image{
+    width: 24px !important;
+}
+.dd-select{
+    background: #F6F6FA !important;
+    border-right: 1px solid #DBE0E6 !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-bottom: none !important;
+}
+.dd-selected{
+    padding: 14px !important;
+}
